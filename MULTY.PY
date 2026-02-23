@@ -1,2 +1,3 @@
 PRINT('JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ')
 print('ужас!!!!!!!!!!!!!')
+МЛОДПТИВДЛГРАПШГЫВРИП
